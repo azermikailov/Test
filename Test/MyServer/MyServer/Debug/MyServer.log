@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  WinapiException.cpp
+  TcpServer.cpp
+  TcpClient.cpp
+  TcpBase.cpp
+  MyServer.cpp
+  Convert.cpp
+  CollectionOfDataAboutObject.cpp
+  Создание кода...
+  MyServer.vcxproj -> C:\Users\User\Desktop\Test\MyServer\Debug\MyServer.exe
+  MyServer.vcxproj -> C:\Users\User\Desktop\Test\MyServer\Debug\MyServer.pdb (Full PDB)

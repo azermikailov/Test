@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  TcpServer.cpp
+  TcpClient.cpp
+  TcpBase.cpp
+  NetException.cpp
+  MYClient.cpp
+c:\users\user\desktop\test\myclient\myclient\myclient.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\test\myclient\myclient\myclient.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+  Convert.cpp
+  Создание кода...
+  MYClient.vcxproj -> C:\Users\User\Desktop\Test\MYClient\Debug\MYClient.exe
+  MYClient.vcxproj -> C:\Users\User\Desktop\Test\MYClient\Debug\MYClient.pdb (Full PDB)
